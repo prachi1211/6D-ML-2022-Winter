@@ -1,0 +1,8 @@
+Independent Feature used = rem_lease
+Dependent Feature = pct
+
+Report:
+Intercept of the model = 30.14602817
+Slope of the model = 0.76700837
+R2 Score Value = 0.886455087289571
+Mean Square Error = 75.73688730841396
